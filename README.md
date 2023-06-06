@@ -16,3 +16,7 @@ Repository này chứa một bộ sưu tập các câu lệnh Linux shell để 
 5. Top 10 bộ phim đem về lợi nhuận cao nhất
 6. Đạo diễn nào có nhiều bộ phim nhất và diễn viên nào đóng nhiều phim nhất
 7. Thống kê số lượng phim theo các thể loại. Ví dụ có bao nhiêu phim thuộc thể loại Action, bao nhiêu thuộc thể loại Family, ….
+
+## Run
+Trước khi chạy script, hãy đảm bảo bạn có quyền thực thi (execute permission) cho tệp tin script (execute-cmd.sh). Bằng cách sử dụng `chmod +x execute-cmd.sh`, bạn có thể cấp quyền thực thi cho tệp tin đó.
+Sau đó thực thi script bằng câu lệnh `./execute-cmd.sh`
